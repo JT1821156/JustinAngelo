@@ -1,8 +1,6 @@
 <html><head>
 <style> 
-body {
-  background-image: url(back.jpg);background-repeat:no-repeat;
-}
+<body> {background-image: url(back.jpg);background-repeat:no-repeat;}
 </style>
 </head>
 <body>
@@ -14,5 +12,5 @@ body {
 <marquee behavior="scroll" direction="right">TODAY</marquee><b><br>
 <b>and<br>
 <marquee behavior="scroll" direction="left">TOMORROW</marquee><b>
-<p align="center"> <image src=Today-Tomorrow.jpg width = "220", length = "220"> </img> <br>
+<p align="center"> <img src=Today-Tomorrow.jpg width = "220", length = "220"> </img> <br>
 </b></font></b></font></p></body></html>
